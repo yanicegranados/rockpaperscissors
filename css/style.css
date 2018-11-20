@@ -1,9 +1,12 @@
 .row{
   text-align:center;
-  
+  font-family: 'Permanent Marker', cursive;
+  color: pink;
+  background-color: black;
+
 }
 #choices{
   display:flex;
   justify-content:space-between;
-  
 }
+

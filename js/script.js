@@ -3,6 +3,11 @@
 //****************** SERIOUSLY TEST USING console.log()!!! ******************
 
 //GLOBAL VARIABLES
+<div>
+$("#userChoice").click(function(){
+    $("img").hide;
+});
+</div>
 /* global $ */
 
 
